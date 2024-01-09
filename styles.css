@@ -300,6 +300,7 @@ cursor: pointer;
 .eightinput{
     padding: 10px;
     border-color: white;
+    outline: none;
     margin-bottom: 100px;
     width: 250px;
     border-top-left-radius: 25px;
@@ -314,6 +315,7 @@ border-color: #F00;
 margin-right: 10px;
 color: #FFF;
 position: absolute;
+outline: none;
 }
 .nine{
     max-width: 100%;
