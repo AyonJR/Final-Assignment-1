@@ -2,7 +2,7 @@
     font-family: 'Merriweather', serif;
 }
 .image{
-    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner Image.png');
+    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/resources/Banner-Image.png');
     width: 82.5%;
     height: 500px;
     background-size: cover;
@@ -51,7 +51,7 @@ h3{
     margin: 0 auto;
 }
 .image2{
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../resources/Vectorrr.png');
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('/resources/Vectorrr.png');
     max-width: 82.5%;
     min-width: 82.5%;
     height: 500px;
@@ -213,7 +213,7 @@ cursor: pointer;
     width: 1000px;
 }
 .sixthimage1{
-    background-image: url('../resources/Rectangle\ 1.png');
+    background-image: url('/resources/Rectangle-1.png');
     height: 400px;
     width: 250px;
     background-size:contain;
@@ -228,7 +228,7 @@ cursor: pointer;
     margin-left: -37%;
 }
 .sixthimage3{
-    background-image: url('../resources/Rectangle\ 2.png');
+    background-image: url('/resources/Rectangle-2.png');
     height: 130px;
     width: 100%;
     margin-top:295px ;
